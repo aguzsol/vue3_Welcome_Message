@@ -6,8 +6,6 @@ const app = Vue.createApp({
         }
     },
     methods:{
-        
-    
     showMessage(){
         this.newMessage = this.message
     }
